@@ -1,0 +1,14 @@
+C:\CODEBITS\C-SHARP\labTask\InvoiceTest\InvoiceTest\bin\Debug\net7.0\InvoiceTest.exe
+C:\CODEBITS\C-SHARP\labTask\InvoiceTest\InvoiceTest\bin\Debug\net7.0\InvoiceTest.deps.json
+C:\CODEBITS\C-SHARP\labTask\InvoiceTest\InvoiceTest\bin\Debug\net7.0\InvoiceTest.runtimeconfig.json
+C:\CODEBITS\C-SHARP\labTask\InvoiceTest\InvoiceTest\bin\Debug\net7.0\InvoiceTest.dll
+C:\CODEBITS\C-SHARP\labTask\InvoiceTest\InvoiceTest\bin\Debug\net7.0\InvoiceTest.pdb
+C:\CODEBITS\C-SHARP\labTask\InvoiceTest\InvoiceTest\obj\Debug\net7.0\InvoiceTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODEBITS\C-SHARP\labTask\InvoiceTest\InvoiceTest\obj\Debug\net7.0\InvoiceTest.AssemblyInfoInputs.cache
+C:\CODEBITS\C-SHARP\labTask\InvoiceTest\InvoiceTest\obj\Debug\net7.0\InvoiceTest.AssemblyInfo.cs
+C:\CODEBITS\C-SHARP\labTask\InvoiceTest\InvoiceTest\obj\Debug\net7.0\InvoiceTest.csproj.CoreCompileInputs.cache
+C:\CODEBITS\C-SHARP\labTask\InvoiceTest\InvoiceTest\obj\Debug\net7.0\InvoiceTest.dll
+C:\CODEBITS\C-SHARP\labTask\InvoiceTest\InvoiceTest\obj\Debug\net7.0\refint\InvoiceTest.dll
+C:\CODEBITS\C-SHARP\labTask\InvoiceTest\InvoiceTest\obj\Debug\net7.0\InvoiceTest.pdb
+C:\CODEBITS\C-SHARP\labTask\InvoiceTest\InvoiceTest\obj\Debug\net7.0\InvoiceTest.genruntimeconfig.cache
+C:\CODEBITS\C-SHARP\labTask\InvoiceTest\InvoiceTest\obj\Debug\net7.0\ref\InvoiceTest.dll
